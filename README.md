@@ -2,8 +2,8 @@
 
 ## Author
 
-- Name: YOUR NAME
-- Registration Number: YOUR REGISTRATION NUMBER
+- Name: Rudra Sunil Solav
+- Registration Number: 25BAI10373
 
 ---
 
