@@ -140,6 +140,8 @@ The project demonstrates several concepts from the Programming in Java course.
 
 ---
 
+
+
 ## 6. Project Structure
 
 ```text
@@ -187,3 +189,18 @@ airport-baggage-simulator
 │
 ├── pom.xml
 └── README.md
+
+## 13. How to Run
+
+### Requirements
+
+Before running the project, make sure the following are installed:
+
+- Java 17 or newer
+- Apache Maven
+
+### Clone the Repository
+
+```bash
+git clone https://github.com/rudrasolav/airport-baggage-simulator.git
+
